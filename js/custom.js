@@ -1,7 +1,7 @@
 
 /*
 Design Name: Mojo Services 
-Site URI: aljunmajo.com/
+Site URI: thegoodartisan.com/
 Author: aljun
 Description: Mojo Service Demo Web HTML, CSS, JavaScript. Static Web Design
 Year Create: 2017
